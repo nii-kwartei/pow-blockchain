@@ -16,7 +16,7 @@ import com.google.gson.GsonBuilder;
  * 
  * @mainAuthor Kass
  * 
- * @Coauthor Khen Brian N. K. Quartey & Pasalkar Mohini Ramdas
+ * @Coauthors Khen Brian N. K. Quartey & Pasalkar Mohini Ramdas
  */
 
 public class Main {
